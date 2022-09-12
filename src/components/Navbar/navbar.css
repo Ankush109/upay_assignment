@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+   justify-content: space-evenly;
+ 
+padding: 10px;
+    background-color: rgb(155, 155, 155);
+    
+}
+.btn{
+display: flex;
+cursor: pointer;
+}
+.header{
+  font-weight: 600;
+  font-size: large;
+
+}
+.header >a{
+  text-decoration: none;
+  color: black;
+}
